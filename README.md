@@ -8,3 +8,7 @@
 ### Game 1: Is That Even?
 
 [![asciicast](https://asciinema.org/a/wmVqdtBxpsfMSPA5IcabkBLfT.svg)](https://asciinema.org/a/wmVqdtBxpsfMSPA5IcabkBLfT)
+
+### Game 2: Calculator
+
+[![asciicast](https://asciinema.org/a/lKLJLAB9re1lfDF982tteRE51.svg)](https://asciinema.org/a/lKLJLAB9re1lfDF982tteRE51)

@@ -5,7 +5,7 @@ description = ""
 authors = ["Maksim Lesnikov <maximborzya75@gmail.com>"]
 readme = "README.md"
 packages = [
-    {include = "brain_games"},
+    {include = "brain_gamess"},
 ]
 
 [tool.poetry.dependencies]
@@ -13,8 +13,9 @@ python = "^3.10"
 prompt = "^0.4.1"
 
 [tool.poetry.scripts]
-brain-games = "brain_games.scripts.brain_games:main"
-brain-even = "brain_games.scripts.brain_even:main"
+brain-games = "brain_gamess.scripts.brain_games:main"
+brain-even = "brain_gamess.scripts.brain_even:main"
+brain-calc = "brain_gamess.scripts.brain_calc:main"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^5.0.4"
