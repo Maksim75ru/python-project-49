@@ -5,7 +5,7 @@
 ### How to install:
 `python3 -m pip install --user git+https://github.com/Maksim75ru/python-project-49.git`
 
-### Game 1: Is That Even?
+### Game 1: Is that Even?
 
 [![asciicast](https://asciinema.org/a/wmVqdtBxpsfMSPA5IcabkBLfT.svg)](https://asciinema.org/a/wmVqdtBxpsfMSPA5IcabkBLfT)
 
@@ -20,3 +20,7 @@
 ### Game 4: Arithmetic progression
 
 [![asciicast](https://asciinema.org/a/Sr8xs5NsViLi8R61SL2ZR074e.svg)](https://asciinema.org/a/Sr8xs5NsViLi8R61SL2ZR074e)
+
+### Game 5: Is that prime?
+
+[![asciicast](https://asciinema.org/a/GxY2ZWwkHpbeCLa176cJtnXKp.svg)](https://asciinema.org/a/GxY2ZWwkHpbeCLa176cJtnXKp)
