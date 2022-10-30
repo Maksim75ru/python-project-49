@@ -16,3 +16,7 @@
 ### Game 3: The greatest common divisor
 
 [![asciicast](https://asciinema.org/a/SFBevHmAzuLSE0wCbjEjIZ7Sr.svg)](https://asciinema.org/a/SFBevHmAzuLSE0wCbjEjIZ7Sr)
+
+### Game 4: Arithmetic progression
+
+[![asciicast](https://asciinema.org/a/Sr8xs5NsViLi8R61SL2ZR074e.svg)](https://asciinema.org/a/Sr8xs5NsViLi8R61SL2ZR074e)
