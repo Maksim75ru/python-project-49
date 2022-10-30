@@ -12,3 +12,7 @@
 ### Game 2: Calculator
 
 [![asciicast](https://asciinema.org/a/lKLJLAB9re1lfDF982tteRE51.svg)](https://asciinema.org/a/lKLJLAB9re1lfDF982tteRE51)
+
+### Game 3: The greatest common divisor
+
+[![asciicast](https://asciinema.org/a/SFBevHmAzuLSE0wCbjEjIZ7Sr.svg)](https://asciinema.org/a/SFBevHmAzuLSE0wCbjEjIZ7Sr)
