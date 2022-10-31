@@ -1,5 +1,5 @@
 import prompt
-from cli import welcome_user
+from .cli import welcome_user
 
 SCORE = 3
 
