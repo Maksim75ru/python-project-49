@@ -1,5 +1,7 @@
 .venv
 dist/
+pycache/
 __pycache__
+.pytest_cache/
 .DS_Store
 .idea
