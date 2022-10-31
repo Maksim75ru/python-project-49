@@ -1,12 +1,12 @@
 import prompt
+from cli import welcome_user
 
 SCORE = 3
 
 
 def games_result(game):
     print('Welcome to the Brain Games!')
-    name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!')
+    name = welcome_user()
     print(game.DESCRIPTION)
     count = 0
 
